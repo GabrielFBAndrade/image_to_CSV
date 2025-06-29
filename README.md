@@ -21,9 +21,9 @@ from your_script import extractToList, data_sps
 Ou executar diretamente o script editando os valores de entrada.
 
 2. Extrair texto da imagem
-# Parâmetros:
-# - Idioma (ex: 'en' para inglês, 'pt' para português)
-# - Caminho para a imagem (ex: 'imagens/foto.png')
+Parâmetros:
+- Idioma (ex: 'en' para inglês, 'pt' para português)
+- Caminho para a imagem (ex: 'imagens/foto.png')
 
 data = extractToList('en', 'path/to/your/image.png')
 
